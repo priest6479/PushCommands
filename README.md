@@ -9,5 +9,5 @@ Update the "devices.txt" with the Ip or Hostname of the devices you want to appl
 
 There are two versions of this script, one for Telnet and one for SSH
 
-(This is meant for Cisco Devices)
+(This is meant for Cisco Devices)<br />
 (This script runs Python, Netmiko and Getpass)
