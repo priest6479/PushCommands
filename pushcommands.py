@@ -6,7 +6,7 @@ import getpass
 username = input("Please enter your Username:")
 
 # Obtain Password
-password=getpass.getpass(prompt="Please enter your Password:")
+password = getpass.getpass(prompt="Please enter your Password:")
 
 # Define the netmiko parameters for SSH connection
 netmiko_params = {
