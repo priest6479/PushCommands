@@ -51,3 +51,5 @@ for device in devices_list:
 
     except (NetmikoAuthenticationException, NetmikoTimeoutException) as e:
         print("Failed to connect to", device, ":", e)
+
+print(test)
