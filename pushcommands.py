@@ -16,10 +16,8 @@ netmiko_params = {
     "global_delay_factor": 2,
 }
 
-
 # Define the filename for the devices file
 devices_filename = "devices.txt"
-
 
 # Open the devices file and read the list of devices
 with open(devices_filename, "r") as devices_file:
